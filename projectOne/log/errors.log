@@ -1,0 +1,108 @@
+[2020-12-29T11:15:53.574] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:15:53.574Z,
+  requestId: 'SHISLHGOKUF6IJNULERQTBG0FNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 41.896604335757914
+}
+[2020-12-29T11:15:53.586] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:15:53.586Z,
+  requestId: 'M5FU1BLAKT0TP1GGEVR9BE24V7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 36.67082651025099
+}
+[2020-12-29T11:15:53.600] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:15:53.600Z,
+  requestId: '8PDU611ROF0GSPOA7579A34HIJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 48.73246300860063
+}
+[2020-12-29T11:35:43.549] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:35:43.549Z,
+  requestId: 'D75KANI2VA9P0MMGIPKB2QQ5N3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 45.77223996101787
+}
+[2020-12-29T11:35:43.590] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:35:43.590Z,
+  requestId: 'JO0R6E7DTHVIASU8F9OTH7LJHVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 42.427103969324676
+}
+[2020-12-29T11:35:43.653] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:35:43.653Z,
+  requestId: 'HKLTNDC66D0FRRMR6ICV5ONUJ7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 39.892107233743914
+}

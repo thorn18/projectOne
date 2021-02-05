@@ -1,0 +1,418 @@
+[2020-12-29T10:47:02.382] [INFO] default - Successfully created item
+[2020-12-29T10:47:02.451] [INFO] default - Successfully created item
+[2020-12-29T10:47:02.455] [INFO] default - Successfully created item
+[2020-12-29T10:47:02.464] [INFO] default - Successfully created item
+[2020-12-29T11:15:53.557] [INFO] default - Successfully created item
+[2020-12-29T11:15:53.566] [INFO] default - Successfully created item
+[2020-12-29T11:15:53.571] [INFO] default - Successfully created item
+[2020-12-29T11:15:53.573] [INFO] default - Successfully created item
+[2020-12-29T11:15:53.574] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:15:53.574Z,
+  requestId: 'SHISLHGOKUF6IJNULERQTBG0FNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 41.896604335757914
+}
+[2020-12-29T11:15:53.586] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:15:53.586Z,
+  requestId: 'M5FU1BLAKT0TP1GGEVR9BE24V7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 36.67082651025099
+}
+[2020-12-29T11:15:53.600] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:15:53.600Z,
+  requestId: '8PDU611ROF0GSPOA7579A34HIJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 48.73246300860063
+}
+[2020-12-29T11:33:12.219] [DEBUG] default - [Object: null prototype] { username: 'Bob', password: '1234' }
+[2020-12-29T11:33:12.222] [DEBUG] default - Bob 1234
+[2020-12-29T11:33:48.238] [DEBUG] default - [Object: null prototype] { username: 'Bob', password: '1234' }
+[2020-12-29T11:33:48.243] [DEBUG] default - Bob 1234
+[2020-12-29T11:35:43.512] [INFO] default - Successfully created item
+[2020-12-29T11:35:43.522] [INFO] default - Successfully created item
+[2020-12-29T11:35:43.535] [INFO] default - Successfully created item
+[2020-12-29T11:35:43.537] [INFO] default - Successfully created item
+[2020-12-29T11:35:43.549] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:35:43.549Z,
+  requestId: 'D75KANI2VA9P0MMGIPKB2QQ5N3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 45.77223996101787
+}
+[2020-12-29T11:35:43.590] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:35:43.590Z,
+  requestId: 'JO0R6E7DTHVIASU8F9OTH7LJHVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 42.427103969324676
+}
+[2020-12-29T11:35:43.653] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Tyler\2012-dec14-react\grubdash\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2020-12-29T19:35:43.653Z,
+  requestId: 'HKLTNDC66D0FRRMR6ICV5ONUJ7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 39.892107233743914
+}
+[2020-12-29T11:36:29.872] [INFO] default - Successfully created item
+[2020-12-29T11:36:29.876] [INFO] default - Successfully created item
+[2020-12-29T11:36:29.883] [INFO] default - Successfully created item
+[2020-12-29T11:36:29.923] [INFO] default - Successfully created item
+[2020-12-29T11:36:29.926] [INFO] default - Successfully created item
+[2020-12-29T11:36:29.927] [INFO] default - Successfully created item
+[2020-12-29T11:36:29.933] [INFO] default - Successfully created item
+[2020-12-29T11:36:59.103] [DEBUG] default - [Object: null prototype] { username: '', password: '1234' }
+[2020-12-29T11:36:59.106] [DEBUG] default -  1234
+[2020-12-29T11:37:03.631] [DEBUG] default - [Object: null prototype] { username: 'Bob', password: '1234' }
+[2020-12-29T11:37:03.644] [DEBUG] default - Bob 1234
+[2020-12-29T11:37:03.725] [DEBUG] default - data.Item: {"password":"1234","role":"Customer","name":"Bob","money":10}
+[2020-12-29T11:37:43.129] [DEBUG] default - [Object: null prototype] { username: 'Bob', password: '1234' }
+[2020-12-29T11:37:43.134] [DEBUG] default - Bob 1234
+[2020-12-29T11:37:43.246] [DEBUG] default - data.Item: {"password":"1234","role":"Customer","name":"Bob","money":10}
+[2020-12-29T11:37:45.592] [DEBUG] default - [Object: null prototype] { username: 'Bob', password: '1234' }
+[2020-12-29T11:37:45.592] [DEBUG] default - Bob 1234
+[2020-12-29T11:37:45.653] [DEBUG] default - data.Item: {"password":"1234","role":"Customer","name":"Bob","money":10}
+[2020-12-29T11:39:05.004] [DEBUG] default - This is a Post Request
+[2020-12-29T11:39:19.255] [DEBUG] default - This is a Post Request
+[2021-01-15T11:05:10.740] [INFO] default - user updated successfully
+[2021-01-15T11:08:01.466] [INFO] default - user updated successfully
+[2021-01-15T11:09:31.731] [INFO] default - user updated successfully
+[2021-01-15T11:11:32.179] [INFO] default - user updated successfully
+[2021-01-15T11:14:30.275] [INFO] default - user updated successfully
+[2021-01-15T11:15:13.088] [INFO] default - user updated successfully
+[2021-01-15T11:16:24.301] [INFO] default - user updated successfully
+[2021-01-15T11:18:12.845] [INFO] default - user updated successfully
+[2021-01-15T11:22:42.812] [INFO] default - user updated successfully
+[2021-01-15T11:25:13.123] [INFO] default - user updated successfully
+[2021-01-15T11:26:57.066] [INFO] default - user updated successfully
+[2021-01-15T11:27:58.162] [INFO] default - user updated successfully
+[2021-01-15T11:29:19.220] [INFO] default - user updated successfully
+[2021-01-15T11:29:56.527] [INFO] default - user updated successfully
+[2021-01-15T11:31:21.948] [INFO] default - user updated successfully
+[2021-01-15T11:37:13.453] [INFO] default - user updated successfully
+[2021-01-15T11:42:37.373] [INFO] default - user updated successfully
+[2021-01-15T12:37:10.774] [INFO] default - user updated successfully
+[2021-01-15T12:44:12.067] [INFO] default - user updated successfully
+[2021-01-15T13:02:31.586] [INFO] default - user updated successfully
+[2021-01-15T13:04:22.465] [INFO] default - user updated successfully
+[2021-01-15T13:12:24.915] [INFO] default - user updated successfully
+[2021-01-15T13:44:01.764] [INFO] default - user updated successfully
+[2021-01-15T13:52:14.629] [INFO] default - user updated successfully
+[2021-01-15T13:52:40.863] [INFO] default - user updated successfully
+[2021-01-15T13:56:12.973] [INFO] default - user updated successfully
+[2021-01-15T13:58:19.064] [INFO] default - user updated successfully
+[2021-01-15T14:00:34.661] [INFO] default - user updated successfully
+[2021-01-15T14:03:38.168] [INFO] default - user updated successfully
+[2021-01-15T14:04:25.017] [INFO] default - user updated successfully
+[2021-01-15T14:08:13.337] [INFO] default - user updated successfully
+[2021-01-15T14:14:13.032] [INFO] default - user updated successfully
+[2021-01-15T14:15:08.661] [INFO] default - user updated successfully
+[2021-01-15T14:15:34.265] [INFO] default - user updated successfully
+[2021-01-17T11:34:25.073] [INFO] default - user updated successfully
+[2021-01-17T11:43:02.179] [INFO] default - user updated successfully
+[2021-01-17T11:43:46.176] [INFO] default - user updated successfully
+[2021-01-17T11:45:33.667] [INFO] default - user updated successfully
+[2021-01-17T11:48:20.555] [INFO] default - user updated successfully
+[2021-01-17T12:29:25.443] [INFO] default - user updated successfully
+[2021-01-17T12:30:43.504] [INFO] default - user updated successfully
+[2021-01-17T12:31:56.180] [INFO] default - user updated successfully
+[2021-01-17T12:32:27.563] [INFO] default - user updated successfully
+[2021-01-17T12:33:10.185] [INFO] default - user updated successfully
+[2021-01-17T12:34:26.027] [INFO] default - user updated successfully
+[2021-01-17T12:35:34.522] [INFO] default - user updated successfully
+[2021-01-17T12:36:44.977] [INFO] default - user updated successfully
+[2021-01-17T12:37:37.062] [INFO] default - user updated successfully
+[2021-01-17T12:38:21.177] [INFO] default - user updated successfully
+[2021-01-17T12:44:09.388] [INFO] default - user updated successfully
+[2021-01-17T12:46:39.247] [INFO] default - user updated successfully
+[2021-01-17T12:51:07.990] [INFO] default - user updated successfully
+[2021-01-17T12:55:20.517] [INFO] default - user updated successfully
+[2021-01-17T13:01:45.927] [INFO] default - user updated successfully
+[2021-01-17T13:01:46.033] [INFO] default - user updated successfully
+[2021-01-17T14:16:17.822] [INFO] default - user updated successfully
+[2021-01-17T14:16:17.923] [INFO] default - user updated successfully
+[2021-01-17T14:39:41.893] [INFO] default - user updated successfully
+[2021-01-17T14:39:41.994] [INFO] default - user updated successfully
+[2021-01-17T14:44:40.786] [INFO] default - user updated successfully
+[2021-01-17T14:44:40.912] [INFO] default - user updated successfully
+[2021-01-17T15:01:40.188] [INFO] default - user updated successfully
+[2021-01-17T15:01:40.215] [INFO] default - user updated successfully
+[2021-01-18T11:24:08.549] [INFO] default - user updated successfully
+[2021-01-18T11:24:08.567] [INFO] default - user updated successfully
+[2021-01-18T11:32:49.843] [INFO] default - user updated successfully
+[2021-01-18T11:32:49.950] [INFO] default - user updated successfully
+[2021-01-18T11:33:30.685] [INFO] default - user updated successfully
+[2021-01-18T11:33:30.686] [INFO] default - user updated successfully
+[2021-01-18T12:04:10.267] [WARN] default - user not updated
+[2021-01-18T12:04:10.393] [WARN] default - user not updated
+[2021-01-18T12:07:18.298] [WARN] default - user not updated
+[2021-01-18T12:07:18.439] [WARN] default - user not updated
+[2021-01-18T12:11:36.602] [WARN] default - user not updated
+[2021-01-18T12:11:36.714] [WARN] default - user not updated
+[2021-01-18T12:13:44.699] [WARN] default - user not updated
+[2021-01-18T12:13:44.827] [WARN] default - user not updated
+[2021-01-18T12:15:14.915] [WARN] default - user not updated
+[2021-01-18T12:15:15.036] [WARN] default - user not updated
+[2021-01-18T12:33:22.043] [WARN] default - user not updated
+[2021-01-18T12:33:22.164] [WARN] default - user not updated
+[2021-01-18T12:34:49.813] [WARN] default - user not updated
+[2021-01-18T12:34:49.941] [WARN] default - user not updated
+[2021-01-18T12:35:21.835] [WARN] default - user not updated
+[2021-01-18T12:35:21.946] [WARN] default - user not updated
+[2021-01-18T12:35:23.847] [WARN] default - user not updated
+[2021-01-18T12:35:23.947] [WARN] default - user not updated
+[2021-01-18T12:35:58.140] [WARN] default - user not updated
+[2021-01-18T12:35:58.241] [WARN] default - user not updated
+[2021-01-18T12:36:35.467] [WARN] default - user not updated
+[2021-01-18T12:36:35.641] [INFO] default - user updated successfully
+[2021-01-18T12:38:20.751] [WARN] default - user not updated
+[2021-01-18T12:38:20.927] [INFO] default - user updated successfully
+[2021-01-18T12:38:51.002] [WARN] default - user not updated
+[2021-01-18T12:38:51.190] [INFO] default - user updated successfully
+[2021-01-18T12:39:01.548] [WARN] default - user not updated
+[2021-01-18T12:39:01.916] [INFO] default - user updated successfully
+[2021-01-18T12:39:42.524] [WARN] default - user not updated
+[2021-01-18T12:39:42.733] [INFO] default - user updated successfully
+[2021-01-18T12:41:35.426] [WARN] default - user not updated
+[2021-01-18T12:41:35.614] [INFO] default - user updated successfully
+[2021-01-18T12:41:58.293] [WARN] default - user not updated
+[2021-01-18T12:41:58.482] [WARN] default - user not updated
+[2021-01-18T12:43:00.433] [WARN] default - user not updated
+[2021-01-18T12:43:00.677] [INFO] default - user updated successfully
+[2021-01-18T12:46:23.838] [WARN] default - user not updated
+[2021-01-18T12:46:23.966] [WARN] default - user not updated
+[2021-01-18T12:46:24.057] [INFO] default - user updated successfully
+[2021-01-18T12:46:48.987] [WARN] default - user not updated
+[2021-01-18T12:46:49.140] [WARN] default - user not updated
+[2021-01-18T12:46:49.227] [INFO] default - user updated successfully
+[2021-01-18T12:49:18.409] [WARN] default - user not updated
+[2021-01-18T12:49:18.522] [WARN] default - user not updated
+[2021-01-18T12:49:18.602] [INFO] default - user updated successfully
+[2021-01-18T12:49:50.225] [WARN] default - user not updated
+[2021-01-18T12:49:50.336] [WARN] default - user not updated
+[2021-01-18T12:49:50.425] [INFO] default - user updated successfully
+[2021-01-18T12:50:55.705] [WARN] default - user not updated
+[2021-01-18T12:50:55.813] [WARN] default - user not updated
+[2021-01-18T12:50:55.895] [INFO] default - user updated successfully
+[2021-01-18T12:53:29.915] [WARN] default - user not updated
+[2021-01-18T12:53:31.103] [WARN] default - user not updated
+[2021-01-18T12:53:31.188] [INFO] default - user updated successfully
+[2021-01-18T12:56:07.813] [WARN] default - user not updated
+[2021-01-18T12:56:08.992] [WARN] default - user not updated
+[2021-01-18T12:56:09.084] [INFO] default - user updated successfully
+[2021-01-18T12:57:25.890] [WARN] default - user not updated
+[2021-01-18T12:57:26.107] [WARN] default - user not updated
+[2021-01-18T12:57:26.176] [INFO] default - user updated successfully
+[2021-01-18T12:59:52.552] [INFO] default - user updated successfully
+[2021-01-18T12:59:52.662] [INFO] default - user updated successfully
+[2021-01-18T12:59:52.664] [INFO] default - user updated successfully
+[2021-01-18T13:04:44.934] [INFO] default - user updated successfully
+[2021-01-18T13:04:45.024] [INFO] default - user updated successfully
+[2021-01-18T13:04:45.025] [INFO] default - user updated successfully
+[2021-01-18T13:07:18.064] [INFO] default - user updated successfully
+[2021-01-18T13:07:18.171] [INFO] default - user updated successfully
+[2021-01-18T13:07:18.172] [INFO] default - user updated successfully
+[2021-01-18T13:07:37.283] [INFO] default - user updated successfully
+[2021-01-18T13:07:37.294] [INFO] default - user updated successfully
+[2021-01-18T13:07:57.017] [INFO] default - user updated successfully
+[2021-01-18T13:07:57.028] [INFO] default - user updated successfully
+[2021-01-18T13:22:25.554] [INFO] default - user updated successfully
+[2021-01-18T13:24:40.521] [INFO] default - user updated successfully
+[2021-01-18T13:24:40.618] [INFO] default - user updated successfully
+[2021-01-18T13:24:40.620] [INFO] default - user updated successfully
+[2021-01-18T13:25:02.422] [INFO] default - user updated successfully
+[2021-01-18T13:27:12.013] [INFO] default - user updated successfully
+[2021-01-18T13:27:12.097] [INFO] default - user updated successfully
+[2021-01-18T13:27:12.109] [INFO] default - user updated successfully
+[2021-01-18T13:32:27.787] [INFO] default - user updated successfully
+[2021-01-18T13:32:27.788] [INFO] default - user updated successfully
+[2021-01-18T14:25:58.836] [INFO] default - user updated successfully
+[2021-01-18T14:25:58.934] [INFO] default - user updated successfully
+[2021-01-18T14:25:58.942] [INFO] default - user updated successfully
+[2021-01-18T14:27:53.023] [INFO] default - user updated successfully
+[2021-01-18T14:27:53.115] [INFO] default - user updated successfully
+[2021-01-18T14:27:53.117] [INFO] default - user updated successfully
+[2021-01-18T14:28:20.607] [INFO] default - user updated successfully
+[2021-01-18T14:28:20.722] [INFO] default - user updated successfully
+[2021-01-18T14:28:20.724] [INFO] default - user updated successfully
+[2021-01-18T14:30:09.785] [INFO] default - user updated successfully
+[2021-01-18T14:30:09.845] [INFO] default - user updated successfully
+[2021-01-18T14:30:09.848] [INFO] default - user updated successfully
+[2021-01-18T14:50:45.958] [INFO] default - user updated successfully
+[2021-01-18T14:50:48.563] [INFO] default - user updated successfully
+[2021-01-18T14:50:48.578] [INFO] default - user updated successfully
+[2021-01-18T15:27:42.324] [INFO] default - user updated successfully
+[2021-01-18T15:27:44.218] [INFO] default - user updated successfully
+[2021-01-18T15:27:44.221] [INFO] default - user updated successfully
+[2021-01-18T15:28:58.290] [INFO] default - user updated successfully
+[2021-01-18T15:29:00.144] [INFO] default - user updated successfully
+[2021-01-18T15:29:00.152] [INFO] default - user updated successfully
+[2021-01-18T15:30:08.482] [INFO] default - user updated successfully
+[2021-01-18T15:30:09.654] [INFO] default - user updated successfully
+[2021-01-18T15:30:09.655] [INFO] default - user updated successfully
+[2021-01-18T15:31:52.007] [INFO] default - user updated successfully
+[2021-01-18T15:31:52.018] [INFO] default - user updated successfully
+[2021-01-18T15:32:29.261] [INFO] default - user updated successfully
+[2021-01-18T15:32:29.278] [INFO] default - user updated successfully
+[2021-01-18T15:34:38.954] [INFO] default - user updated successfully
+[2021-01-18T15:34:40.258] [INFO] default - user updated successfully
+[2021-01-18T15:34:40.266] [INFO] default - user updated successfully
+[2021-01-18T15:35:28.601] [INFO] default - user updated successfully
+[2021-01-18T15:35:29.834] [INFO] default - user updated successfully
+[2021-01-18T15:35:29.853] [INFO] default - user updated successfully
+[2021-01-18T15:47:17.097] [INFO] default - user updated successfully
+[2021-01-18T15:47:17.176] [INFO] default - user updated successfully
+[2021-01-18T15:47:17.178] [INFO] default - user updated successfully
+[2021-01-18T15:47:24.930] [INFO] default - user updated successfully
+[2021-01-18T15:47:26.066] [INFO] default - user updated successfully
+[2021-01-18T15:47:26.071] [INFO] default - user updated successfully
+[2021-01-18T15:51:06.661] [INFO] default - user updated successfully
+[2021-01-18T15:51:07.981] [INFO] default - user updated successfully
+[2021-01-18T15:51:07.983] [INFO] default - user updated successfully
+[2021-01-18T15:57:29.476] [INFO] default - user updated successfully
+[2021-01-18T15:57:29.479] [INFO] default - user updated successfully
+[2021-01-18T16:00:08.330] [INFO] default - user updated successfully
+[2021-01-18T16:00:09.481] [INFO] default - user updated successfully
+[2021-01-18T16:00:09.482] [INFO] default - user updated successfully
+[2021-01-18T16:00:37.177] [INFO] default - user updated successfully
+[2021-01-18T16:00:37.199] [INFO] default - user updated successfully
+[2021-01-18T16:03:28.795] [INFO] default - user updated successfully
+[2021-01-18T16:03:29.727] [INFO] default - user updated successfully
+[2021-01-18T16:03:29.729] [INFO] default - user updated successfully
+[2021-01-18T16:03:49.060] [INFO] default - user updated successfully
+[2021-01-18T16:03:49.072] [INFO] default - user updated successfully
+[2021-01-18T16:06:24.802] [INFO] default - user updated successfully
+[2021-01-18T16:06:25.785] [INFO] default - user updated successfully
+[2021-01-18T16:06:25.788] [INFO] default - user updated successfully
+[2021-01-18T16:07:03.278] [INFO] default - user updated successfully
+[2021-01-18T16:07:03.291] [INFO] default - user updated successfully
+[2021-01-18T16:13:20.042] [INFO] default - user updated successfully
+[2021-01-18T16:13:21.005] [INFO] default - user updated successfully
+[2021-01-18T16:13:21.006] [INFO] default - user updated successfully
+[2021-01-18T16:14:09.085] [INFO] default - user updated successfully
+[2021-01-18T16:14:09.139] [INFO] default - user updated successfully
+[2021-01-18T16:20:25.936] [INFO] default - user updated successfully
+[2021-01-18T16:20:27.579] [INFO] default - user updated successfully
+[2021-01-18T16:20:27.591] [INFO] default - user updated successfully
+[2021-01-18T16:21:15.155] [INFO] default - user updated successfully
+[2021-01-18T16:21:15.157] [INFO] default - user updated successfully
+[2021-01-18T16:27:59.271] [INFO] default - user updated successfully
+[2021-01-18T16:27:59.999] [INFO] default - user updated successfully
+[2021-01-18T16:28:00.000] [INFO] default - user updated successfully
+[2021-01-18T16:30:36.259] [INFO] default - user updated successfully
+[2021-01-18T16:30:36.276] [INFO] default - user updated successfully
+[2021-01-18T16:30:36.286] [INFO] default - user updated successfully
+[2021-01-18T16:31:29.120] [INFO] default - user updated successfully
+[2021-01-18T16:31:29.132] [INFO] default - user updated successfully
+[2021-01-18T18:39:36.589] [INFO] default - user updated successfully
+[2021-01-18T18:39:36.614] [INFO] default - user updated successfully
+[2021-01-18T18:44:57.684] [INFO] default - user updated successfully
+[2021-01-18T18:44:59.130] [INFO] default - user updated successfully
+[2021-01-18T18:44:59.131] [INFO] default - user updated successfully
+[2021-01-18T18:45:13.271] [INFO] default - user updated successfully
+[2021-01-18T18:45:13.276] [INFO] default - user updated successfully
+[2021-01-18T18:45:29.365] [INFO] default - user updated successfully
+[2021-01-18T18:45:29.366] [INFO] default - user updated successfully
+[2021-01-18T18:46:18.388] [INFO] default - user updated successfully
+[2021-01-18T18:46:18.392] [INFO] default - user updated successfully
+[2021-01-19T11:04:48.054] [INFO] default - user updated successfully
+[2021-01-19T11:04:53.096] [INFO] default - user updated successfully
+[2021-01-19T11:04:53.098] [INFO] default - user updated successfully
+[2021-01-19T11:18:11.437] [INFO] default - user updated successfully
+[2021-01-19T11:18:12.617] [INFO] default - user updated successfully
+[2021-01-19T11:18:12.619] [INFO] default - user updated successfully
+[2021-01-19T11:40:08.367] [INFO] default - user updated successfully
+[2021-01-19T11:40:08.369] [INFO] default - user updated successfully
+[2021-01-19T11:55:10.787] [INFO] default - user updated successfully
+[2021-01-19T11:55:10.802] [INFO] default - user updated successfully
+[2021-01-19T11:55:27.873] [INFO] default - user updated successfully
+[2021-01-19T11:55:27.883] [INFO] default - user updated successfully
+[2021-01-19T11:55:27.884] [INFO] default - user updated successfully
+[2021-01-19T11:55:49.875] [INFO] default - user updated successfully
+[2021-01-19T11:55:49.896] [INFO] default - user updated successfully
+[2021-01-19T11:55:49.900] [INFO] default - user updated successfully
+[2021-01-19T11:56:09.145] [INFO] default - user updated successfully
+[2021-01-19T11:56:09.153] [INFO] default - user updated successfully
+[2021-01-19T11:56:22.480] [INFO] default - user updated successfully
+[2021-01-19T11:56:22.511] [INFO] default - user updated successfully
+[2021-01-19T11:56:39.351] [INFO] default - user updated successfully
+[2021-01-19T11:56:39.354] [INFO] default - user updated successfully
+[2021-01-19T12:50:45.255] [INFO] default - user updated successfully
+[2021-01-19T12:50:45.286] [INFO] default - user updated successfully
+[2021-01-19T13:20:03.638] [INFO] default - user updated successfully
+[2021-01-19T13:20:04.759] [INFO] default - user updated successfully
+[2021-01-19T13:20:04.777] [INFO] default - user updated successfully
+[2021-01-19T13:20:21.602] [INFO] default - user updated successfully
+[2021-01-19T13:20:21.608] [INFO] default - user updated successfully
+[2021-01-19T13:20:33.057] [INFO] default - user updated successfully
+[2021-01-19T13:20:33.059] [INFO] default - user updated successfully
+[2021-01-19T14:38:43.253] [INFO] default - user updated successfully
+[2021-01-19T14:38:43.255] [INFO] default - user updated successfully

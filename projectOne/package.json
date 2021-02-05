@@ -1,0 +1,30 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "Project One for class",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc && node bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup":"node build/setup/createTable.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.821.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "log4js": "^6.3.0",
+    "memorystore": "^1.6.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.9",
+    "@types/express": "^4.17.9",
+    "@types/express-session": "^1.17.3",
+    "@types/http-errors": "^1.8.0",
+    "@types/morgan": "^1.9.2"
+  }
+}

@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Sriracha&display=swap');
+
+body {
+	background: url("../images/backgroundHome.jpg");
+	background-repeat: no-repeat;
+	background-color: rgb(146, 146, 146);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+nav {
+	background-color: rgb(211, 202, 71);
+	color:black;
+	font-size: larger;
+	width: 1012px;
+	position: relative;
+	left:140px;
+	border-style: outset;
+}
+
+nav > ul > li {
+	display: inline-block;
+}
+
+#motto {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-style: italic;
+	font-size: 45px;
+	text-align: center;
+	color: goldenrod;
+}
+
+#compNamep1 {
+	font-size: 50px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: italic;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: honeydew;
+}
+
+#compNamep2 {
+	font-size: 50px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color:lightseagreen
+}
+
+#head1 {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+#spacer {
+	margin-top: 70px;
+}
+
+.image {
+	height: 300px;
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.btn btn-primary {
+	size: 5cm;
+}
+
+.userInfo {
+	border-style: dotted;
+	text-align:right;
+	color: maroon;
+	font-size: x-large;
+	background-color: rgb(0, 0, 0);
+	width: 220px;
+	position: relative;
+	left: 1100px;
+}
+
+#classTableProper {
+	border-style: inset;
+}
+
+#classTable {
+}
+
+#seminarTableProper {
+	border-style: inset;
+}
+
+#certPrepTableProper {
+	border-style: inset;
+}
+
+#certPrepTable {
+
+}
+
+#certTable {
+
+}
+
+#certTableProper {
+	border-style: inset;
+}
+
+#technicalTableProper {
+	border-style: inset;
+
+}
+
+#otherTableProper {
+	border-style: inset;
+
+}
+
+#costTable {
+	border-style: inset;
+}
