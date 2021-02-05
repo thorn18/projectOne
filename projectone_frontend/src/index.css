@@ -1,0 +1,99 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#home {
+  font-size: 50px;
+  height:80px;
+  width: 250px;
+  position: relative;
+  font-family: cursive;
+  color:rgb(255, 255, 255);
+  border-style: inset;
+  border-width: 2px;
+  border-color: red;
+  background-color: lightsalmon;
+  text-align: center;
+  border-radius: 1cm;
+
+}
+
+#loginbutton {
+
+  font-Size:50px;
+  height:80px;
+  width: 250px;
+  position: relative;
+  font-family: cursive;
+  color:rgb(255, 255, 255);
+  border-style: inset;
+  border-width: 2px;
+  border-color: red;
+  background-color: lightsalmon;
+  text-align: center;
+  border-radius: 1cm;
+
+}
+
+#profile {
+
+  font-Size:50px;
+  height:80px;
+  width: 250px;
+  position: relative;
+  font-family: cursive;
+  color:rgb(255, 255, 255);
+  border-style: inset;
+  border-width: 2px;
+  border-color: red;
+  background-color: lightsalmon;
+  text-align: center;
+  border-radius: 1cm;
+
+}
+
+#logoutbutton {
+
+  font-Size:50px;
+  height:80px;
+  width: 250px;
+  position: relative;
+  font-family: cursive;
+  color:rgb(255, 255, 255);
+  border-style: inset;
+  border-width: 2px;
+  border-color: red;
+  background-color: lightsalmon;
+  text-align: center;
+  border-radius: 1cm;
+
+}
+
+#spacer {
+  width: 250px;
+}
+
+#container {
+  position: relative;
+  text-align: center;
+  background-color:rgb(0, 0, 0);
+  border-style: inset;
+  background-image: url("./images/spaceBanner.jpg");
+  height: 100px;
+}
+
+#welcome {
+  color: rgb(41, 190, 41);
+  background-color: rgb(33, 29, 61);
+  border-style: inherit;
+  position: relative;
+  left:1500px;
+  top:-75px;
+  width: fit-content;
+  font-size: 25px;
+}
+
+#outer {
+  height: fit-content;
+}

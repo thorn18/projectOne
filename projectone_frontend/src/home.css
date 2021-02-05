@@ -1,0 +1,68 @@
+body {
+	background-attachment: fixed;
+	background: url("./images/backgroundHome.jpg");
+	background-repeat: no-repeat;
+	background-color: rgb(146, 146, 146);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#HomePage {
+	border-color: lightseagreen;
+	background-color: rgb(29, 39, 173);
+	text-align: center;
+	width: 800px;
+	height: 800px;
+	opacity: .2;
+	position: absolute;
+	top: 110px;
+	right:550px
+}
+
+#image {
+	position: absolute;
+	top: 135px;
+	right:780px
+
+}
+
+#tag {
+	font-size:20px;
+	font-family: monospace;
+	font-variant: small-caps;
+	color: rgb(77, 6, 6);
+	position: absolute;
+	top:880px;
+	opacity: 1;
+}
+
+#revlogo1 {
+	position: relative;
+	right:250px
+}
+#revlogo2 {
+	position: relative;
+	right:250px
+}
+#revlogo3 {
+	position: relative;
+	right:-700px;
+	top: -700px;
+}
+#revlogo4 {
+	position: relative;
+	right:-700px;
+	top: -700px;
+}
+#intro {
+	color: white;
+	margin-top: 200px;
+	width: 500px;
+	position: absolute;
+	top:150px;
+	right:700px;
+	text-align: center;
+	font-size: 30px;
+	font-family: monospace;
+	font-style: italic;
+}

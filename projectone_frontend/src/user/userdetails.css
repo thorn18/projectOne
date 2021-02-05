@@ -1,0 +1,164 @@
+#p2 {
+	border-color: lightseagreen;
+	background-color: rgb(185, 185, 185);
+	text-align: center;
+	width: fit-content;
+	height: fit-content;
+	opacity: .2;
+	position: absolute;
+	top: 110px;
+	right:550px
+}
+#userdet {
+	background-color: white;
+	opacity: .8;
+	position: relative;
+	width: 750px;
+	top:-1200px;
+	left:180px;
+	text-align: center;
+	border-style: inset;
+	border-width: 2px;
+	border-color:teal;
+	border-radius: 10px;
+	align-items: center;
+}
+#userIntro {
+	background-color: tomato;
+	font-size: 25px;
+	color: rgb(255, 255, 255);
+	font-family: cursive;
+}
+
+#cTitle {
+	color: navy;
+}
+
+#sClaim {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#rClaim {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#basicBannerL {
+	font-size: 200px;
+	writing-mode: vertical-rl;
+	letter-spacing: 60px;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	float: left;
+	opacity: .4;
+	background-color: rgb(251, 255, 32);
+}
+
+#secBannerL {
+	font-size: 200px;
+	writing-mode: vertical-rl;
+	letter-spacing: 60px;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	float: left;
+	opacity: .4;
+	background-color: rgb(124, 196, 255);
+}
+
+#depBannerL {
+	font-size: 200px;
+	writing-mode: vertical-rl;
+	letter-spacing: 60px;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	float: left;
+	opacity: .4;
+	background-color: green;
+}
+
+#bencoBannerL {
+	font-size: 200px;
+	writing-mode: vertical-rl;
+	letter-spacing: 60px;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	float: left;
+	opacity: .4;
+	background-color: rgb(255, 0, 0);
+}
+
+#basicBannerR {
+	font-size: 200px;
+	writing-mode: vertical-lr;
+	letter-spacing: 60px;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	right: 0px;
+	position: absolute;
+	float: right;
+	opacity: .4;
+	background-color: rgb(251, 255, 32);
+}
+
+#secBannerR {
+	font-size: 200px;
+	writing-mode: vertical-lr;
+	letter-spacing: 60px;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	right: 0px;
+	position: absolute;
+	float: right;
+	opacity: .4;
+	background-color: rgb(124, 196, 255);
+}
+
+#depBannerR {
+	font-size: 200px;
+	writing-mode: vertical-lr;
+	letter-spacing: 60px;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	right: 0px;
+	position: absolute;
+	float: right;
+	opacity: .4;
+	background-color: green;
+}
+
+#bencoBannerR {
+	font-size: 200px;
+	writing-mode: vertical-lr;
+	letter-spacing: 60px;
+	text-orientation: sideways;
+	height:1400px;
+	width:200px;
+	top: 0px;
+	right: 0px;
+	position: absolute;
+	float: right;
+	opacity: .4;
+	background-color: rgb(255, 0, 0);
+	
+}
+
+#claimsBody{
+	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+}
